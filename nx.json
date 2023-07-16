@@ -39,5 +39,6 @@
     "@nx/angular:component": {
       "style": "css"
     }
-  }
+  },
+  "defaultProject": "web"
 }
